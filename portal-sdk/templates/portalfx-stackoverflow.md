@@ -28,7 +28,7 @@
 </tr>
 <tr>
     <td> <a href="https://stackoverflow.microsoft.com/questions/tagged/ibiza-sdkupdate">ibiza-sdkupdate</a> </td>
-    <td> issues encountered during updating from one version of the ibiza sdk to another e.g NuGet, MSI, powershell, VSIX project template related issues</td>
+An Ibiza monitored tag for questions related to <your tag description    <td> issues encountered during updating from one version of the ibiza sdk to another e.g NuGet, MSI, powershell, VSIX project template related issues</td>
     <td> maftab </td>
 </tr>
 <tr>
@@ -68,7 +68,7 @@
 </tr>
 <tr>
     <td> <a href="https://stackoverflow.microsoft.com/questions/tagged/ibiza-localization-global">ibiza-localization-global</a> </td>
-    <td> </td>
+    <td> An Ibiza monitored tag for questions related to Ibiza-localization-global</td>
     <td> paparsad </td>
 </tr>
 <tr>   
@@ -103,7 +103,7 @@
 </tr>
 <tr>
     <td> <a href="https://stackoverflow.microsoft.com/questions/tagged/ibiza-accessibility">ibiza-accessibility</a></td>
-    <td> </td>
+    <td> An Ibiza monitored tag for questions related to Ibiza-accessibility </td>
     <td> paparsad </td>
 </tr>
 </table>
