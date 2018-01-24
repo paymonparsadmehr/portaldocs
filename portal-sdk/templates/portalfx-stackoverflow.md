@@ -68,7 +68,7 @@
 </tr>
 <tr>
     <td> <a href="https://stackoverflow.microsoft.com/questions/tagged/ibiza-localization-global">ibiza-localization-global</a> </td>
-    <td> </td>
+    <td> An Ibiza monitored tag for questions related to Ibiza-localization-global</td>
     <td> paparsad </td>
 </tr>
 <tr>   
@@ -103,7 +103,7 @@
 </tr>
 <tr>
     <td> <a href="https://stackoverflow.microsoft.com/questions/tagged/ibiza-accessibility">ibiza-accessibility</a></td>
-    <td> </td>
+    <td> An Ibiza monitored tag for questions related to Ibiza-Accessibility </td>
     <td> paparsad </td>
 </tr>
 </table>
